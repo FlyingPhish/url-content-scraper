@@ -8,5 +8,7 @@ python .\analyser -u url_file.txt -kw keywords_file.txt -o output.csv
 
 ## Setup
 python -m venv .venv
+
 [enter your venv]
+
 pip install -r requirements.txt
